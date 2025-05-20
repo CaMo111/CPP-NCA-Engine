@@ -1,0 +1,9 @@
+make run 
+./run
+
+g++ -std=c++20 -o run run.cpp
+
+float 
+double 
+
+bit length fot it is bigger;
